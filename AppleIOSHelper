@@ -1,0 +1,91 @@
+JAVA:
+System.out.println(Arrays.toString(array));
+
+
+
+
+	TIMER OPERATOR
+timer = NSTimer.scheduledTimerwithTimeInterval(interval, target: self, selector: Selector(“updateTimerFunction”), userInfo: nil, repeats: True
+	-Thoughts about timer class, userInfo is meant for timing users.
+	CALL OPERATOR
+func funcName(varName: Datatype, varName: Datatype) -> returnType{}
+	FOR OPERATOR
+for var i = 1; i = 10; i+=1
+for var in arr
+for(index, x) in enumerate(arr){}
+	RANDOM NUMBER OPERATOR
+var randomNumber = arc4random_uniform(range = 1 less than input)
+	IF OPERATOR
+if var (operator) var2{}else if{}else{}
+	ARRAY OPERATOR
+array = [1,2,3,”hello”]
+	-Array has many methods for appending and deleting index’s.
+	DICTIONARY/HASH OPERATOR
+dictionary = [“key”: “value”, “key”:”value”]
+	-Dictionary is a bit harder to work with, but easiest way to delete a value
+	-Make the value = nil
+
+“stringstringstring \(object)” + “stringstringstring”
+
+				SWIFT	LEARNING
+<<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><
+				
+4 button on the bottom, 2nd button is for constraint, to fix screen options.
+
+
+<<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><<<<<>>>>>><
+				FRONT END EDITING
+Tools:
+Xcode 6
+IOS Simulator
+Instruments
+
+Language:
+Swift
+Design Patterns - Protocols and delegations
+Supporting Frameworks
+
+Design:
+App Flow
+Correct UI
+Apple HIG
+
+Rules of Programming:
+Default Behavior
+Customizing Behavior
+Signing etc.
+
+
+Datepicking - Parse it.
+
+Reacting to PickerController:
+numberofcomponentsinpickerview(pickerview: uipickerview) int
+	return 1   number of component
+
+pickerview(numberoforws in component)
+	return number of choses
+pickerview(view arrayofChoses)
+
+connect picker view by connecting
+		 datasourse -----> viewcontroller
+		 delegate
+
+
+Reacting to PickerController:
+	pickerView, didSelect row, int
+		switch Row{
+			case 0,3,4,5,8
+			case etc.etc
+		}
+
+
+
+
+
+
+5206213113
+
+foot-push-sci
+5C4744752
+
+td297
