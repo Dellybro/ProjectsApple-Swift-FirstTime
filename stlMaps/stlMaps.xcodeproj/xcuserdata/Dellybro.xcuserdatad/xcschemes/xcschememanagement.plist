@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Haggle.xcscheme</key>
+		<key>stlMaps.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>9D35AB121ACCFC49003F967D</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>9D35AB2A1ACCFC49003F967D</key>
+		<key>9D12397B1AE9FE7400BA3410</key>
 		<dict>
 			<key>primary</key>
 			<true/>

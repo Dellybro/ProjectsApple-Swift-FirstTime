@@ -40,8 +40,8 @@ class StartController: UIViewController {
     
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
         
-        if countElements(firstPlayer.text) >= 2 && countElements(secondPlayer.text) >= 2{
-            var secondVC: ViewController = segue.destinationViewController as ViewController
+        if count(firstPlayer.text) >= 2 && count(secondPlayer.text) >= 2{
+            var secondVC: ViewController = segue.destinationViewController as! ViewController
         
             secondVC.playerOneName = firstPlayer.text!
             secondVC.playerTwoName = secondPlayer.text!
@@ -50,9 +50,6 @@ class StartController: UIViewController {
         }
     }
     
-    override func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
-        resignFirstResponder()
-    }
 
     /*
     // MARK: - Navigation

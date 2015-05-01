@@ -41,7 +41,7 @@ class ViewController: UIViewController {
         var button = UIButton()
         
         for(var i = 1; i<10; i++){
-            button = view.viewWithTag(i) as UIButton
+            button = view.viewWithTag(i) as! UIButton
             button.setImage(nil, forState: nil)
             
         }
@@ -49,7 +49,7 @@ class ViewController: UIViewController {
     }
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
         
-        var secondVC: StartController = segue.destinationViewController as StartController
+        var secondVC: StartController = segue.destinationViewController as! StartController
     }
     
     
@@ -104,8 +104,8 @@ class ViewController: UIViewController {
                 // do some task
                 dispatch_async(dispatch_get_main_queue()) {
                     let storyboard = UIStoryboard(name: "Main", bundle: nil)
-                    let vc = storyboard.instantiateViewControllerWithIdentifier("Start") as UIViewController
-                    presentViewController(vc, animated: true, completion: nil)
+                    let vc = storyboard.instantiateViewControllerWithIdentifier("Start") as! UIViewController
+                    self.presentViewController(vc, animated: true, completion: nil)
                 }
             }
         }

@@ -1,6 +1,6 @@
 //
-//  HaggleTests.swift
-//  HaggleTests
+//  DJKappleTests.swift
+//  DJKappleTests
 //
 //  Created by Travis Delly on 4/13/15.
 //  Copyright (c) 2015 Travis Delly. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class HaggleTests: XCTestCase {
+class DJKappleTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

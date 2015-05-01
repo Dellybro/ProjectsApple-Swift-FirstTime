@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Haggle
+//  DJKapple
 //
 //  Created by Travis Delly on 4/13/15.
 //  Copyright (c) 2015 Travis Delly. All rights reserved.

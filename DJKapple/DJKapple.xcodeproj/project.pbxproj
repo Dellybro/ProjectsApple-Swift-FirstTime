@@ -7,46 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9DCBAEB61ADC5061002E9290 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCBAEB51ADC5061002E9290 /* AppDelegate.swift */; };
-		9DCBAEB81ADC5061002E9290 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCBAEB71ADC5061002E9290 /* ViewController.swift */; };
-		9DCBAEBB1ADC5061002E9290 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DCBAEB91ADC5061002E9290 /* Main.storyboard */; };
-		9DCBAEBD1ADC5061002E9290 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DCBAEBC1ADC5061002E9290 /* Images.xcassets */; };
-		9DCBAEC01ADC5061002E9290 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9DCBAEBE1ADC5061002E9290 /* LaunchScreen.xib */; };
-		9DCBAECC1ADC5061002E9290 /* HaggleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCBAECB1ADC5061002E9290 /* HaggleTests.swift */; };
+		9DCBAEE41ADC50E1002E9290 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCBAEE31ADC50E1002E9290 /* AppDelegate.swift */; };
+		9DCBAEE61ADC50E1002E9290 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCBAEE51ADC50E1002E9290 /* ViewController.swift */; };
+		9DCBAEE91ADC50E1002E9290 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DCBAEE71ADC50E1002E9290 /* Main.storyboard */; };
+		9DCBAEEB1ADC50E1002E9290 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DCBAEEA1ADC50E1002E9290 /* Images.xcassets */; };
+		9DCBAEEE1ADC50E1002E9290 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9DCBAEEC1ADC50E1002E9290 /* LaunchScreen.xib */; };
+		9DCBAEFA1ADC50E1002E9290 /* DJKappleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCBAEF91ADC50E1002E9290 /* DJKappleTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		9DCBAEC61ADC5061002E9290 /* PBXContainerItemProxy */ = {
+		9DCBAEF41ADC50E1002E9290 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 9DCBAEA81ADC5061002E9290 /* Project object */;
+			containerPortal = 9DCBAED61ADC50E1002E9290 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 9DCBAEAF1ADC5061002E9290;
-			remoteInfo = Haggle;
+			remoteGlobalIDString = 9DCBAEDD1ADC50E1002E9290;
+			remoteInfo = DJKapple;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9DCBAEB01ADC5061002E9290 /* Haggle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Haggle.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		9DCBAEB41ADC5061002E9290 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9DCBAEB51ADC5061002E9290 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9DCBAEB71ADC5061002E9290 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		9DCBAEBA1ADC5061002E9290 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9DCBAEBC1ADC5061002E9290 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		9DCBAEBF1ADC5061002E9290 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		9DCBAEC51ADC5061002E9290 /* HaggleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HaggleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		9DCBAECA1ADC5061002E9290 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9DCBAECB1ADC5061002E9290 /* HaggleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HaggleTests.swift; sourceTree = "<group>"; };
+		9DCBAEDE1ADC50E1002E9290 /* DJKapple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DJKapple.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DCBAEE21ADC50E1002E9290 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9DCBAEE31ADC50E1002E9290 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9DCBAEE51ADC50E1002E9290 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9DCBAEE81ADC50E1002E9290 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9DCBAEEA1ADC50E1002E9290 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		9DCBAEED1ADC50E1002E9290 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		9DCBAEF31ADC50E1002E9290 /* DJKappleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DJKappleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DCBAEF81ADC50E1002E9290 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9DCBAEF91ADC50E1002E9290 /* DJKappleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DJKappleTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		9DCBAEAD1ADC5061002E9290 /* Frameworks */ = {
+		9DCBAEDB1ADC50E1002E9290 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9DCBAEC21ADC5061002E9290 /* Frameworks */ = {
+		9DCBAEF01ADC50E1002E9290 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -56,58 +56,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9DCBAEA71ADC5061002E9290 = {
+		9DCBAED51ADC50E1002E9290 = {
 			isa = PBXGroup;
 			children = (
-				9DCBAEB21ADC5061002E9290 /* Haggle */,
-				9DCBAEC81ADC5061002E9290 /* HaggleTests */,
-				9DCBAEB11ADC5061002E9290 /* Products */,
+				9DCBAEE01ADC50E1002E9290 /* DJKapple */,
+				9DCBAEF61ADC50E1002E9290 /* DJKappleTests */,
+				9DCBAEDF1ADC50E1002E9290 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		9DCBAEB11ADC5061002E9290 /* Products */ = {
+		9DCBAEDF1ADC50E1002E9290 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9DCBAEB01ADC5061002E9290 /* Haggle.app */,
-				9DCBAEC51ADC5061002E9290 /* HaggleTests.xctest */,
+				9DCBAEDE1ADC50E1002E9290 /* DJKapple.app */,
+				9DCBAEF31ADC50E1002E9290 /* DJKappleTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9DCBAEB21ADC5061002E9290 /* Haggle */ = {
+		9DCBAEE01ADC50E1002E9290 /* DJKapple */ = {
 			isa = PBXGroup;
 			children = (
-				9DCBAEB51ADC5061002E9290 /* AppDelegate.swift */,
-				9DCBAEB71ADC5061002E9290 /* ViewController.swift */,
-				9DCBAEB91ADC5061002E9290 /* Main.storyboard */,
-				9DCBAEBC1ADC5061002E9290 /* Images.xcassets */,
-				9DCBAEBE1ADC5061002E9290 /* LaunchScreen.xib */,
-				9DCBAEB31ADC5061002E9290 /* Supporting Files */,
+				9DCBAEE31ADC50E1002E9290 /* AppDelegate.swift */,
+				9DCBAEE51ADC50E1002E9290 /* ViewController.swift */,
+				9DCBAEE71ADC50E1002E9290 /* Main.storyboard */,
+				9DCBAEEA1ADC50E1002E9290 /* Images.xcassets */,
+				9DCBAEEC1ADC50E1002E9290 /* LaunchScreen.xib */,
+				9DCBAEE11ADC50E1002E9290 /* Supporting Files */,
 			);
-			path = Haggle;
+			path = DJKapple;
 			sourceTree = "<group>";
 		};
-		9DCBAEB31ADC5061002E9290 /* Supporting Files */ = {
+		9DCBAEE11ADC50E1002E9290 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9DCBAEB41ADC5061002E9290 /* Info.plist */,
+				9DCBAEE21ADC50E1002E9290 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		9DCBAEC81ADC5061002E9290 /* HaggleTests */ = {
+		9DCBAEF61ADC50E1002E9290 /* DJKappleTests */ = {
 			isa = PBXGroup;
 			children = (
-				9DCBAECB1ADC5061002E9290 /* HaggleTests.swift */,
-				9DCBAEC91ADC5061002E9290 /* Supporting Files */,
+				9DCBAEF91ADC50E1002E9290 /* DJKappleTests.swift */,
+				9DCBAEF71ADC50E1002E9290 /* Supporting Files */,
 			);
-			path = HaggleTests;
+			path = DJKappleTests;
 			sourceTree = "<group>";
 		};
-		9DCBAEC91ADC5061002E9290 /* Supporting Files */ = {
+		9DCBAEF71ADC50E1002E9290 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9DCBAECA1ADC5061002E9290 /* Info.plist */,
+				9DCBAEF81ADC50E1002E9290 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -115,60 +115,60 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9DCBAEAF1ADC5061002E9290 /* Haggle */ = {
+		9DCBAEDD1ADC50E1002E9290 /* DJKapple */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9DCBAECF1ADC5061002E9290 /* Build configuration list for PBXNativeTarget "Haggle" */;
+			buildConfigurationList = 9DCBAEFD1ADC50E1002E9290 /* Build configuration list for PBXNativeTarget "DJKapple" */;
 			buildPhases = (
-				9DCBAEAC1ADC5061002E9290 /* Sources */,
-				9DCBAEAD1ADC5061002E9290 /* Frameworks */,
-				9DCBAEAE1ADC5061002E9290 /* Resources */,
+				9DCBAEDA1ADC50E1002E9290 /* Sources */,
+				9DCBAEDB1ADC50E1002E9290 /* Frameworks */,
+				9DCBAEDC1ADC50E1002E9290 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Haggle;
-			productName = Haggle;
-			productReference = 9DCBAEB01ADC5061002E9290 /* Haggle.app */;
+			name = DJKapple;
+			productName = DJKapple;
+			productReference = 9DCBAEDE1ADC50E1002E9290 /* DJKapple.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9DCBAEC41ADC5061002E9290 /* HaggleTests */ = {
+		9DCBAEF21ADC50E1002E9290 /* DJKappleTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9DCBAED21ADC5061002E9290 /* Build configuration list for PBXNativeTarget "HaggleTests" */;
+			buildConfigurationList = 9DCBAF001ADC50E1002E9290 /* Build configuration list for PBXNativeTarget "DJKappleTests" */;
 			buildPhases = (
-				9DCBAEC11ADC5061002E9290 /* Sources */,
-				9DCBAEC21ADC5061002E9290 /* Frameworks */,
-				9DCBAEC31ADC5061002E9290 /* Resources */,
+				9DCBAEEF1ADC50E1002E9290 /* Sources */,
+				9DCBAEF01ADC50E1002E9290 /* Frameworks */,
+				9DCBAEF11ADC50E1002E9290 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				9DCBAEC71ADC5061002E9290 /* PBXTargetDependency */,
+				9DCBAEF51ADC50E1002E9290 /* PBXTargetDependency */,
 			);
-			name = HaggleTests;
-			productName = HaggleTests;
-			productReference = 9DCBAEC51ADC5061002E9290 /* HaggleTests.xctest */;
+			name = DJKappleTests;
+			productName = DJKappleTests;
+			productReference = 9DCBAEF31ADC50E1002E9290 /* DJKappleTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		9DCBAEA81ADC5061002E9290 /* Project object */ = {
+		9DCBAED61ADC50E1002E9290 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Travis Delly";
 				TargetAttributes = {
-					9DCBAEAF1ADC5061002E9290 = {
+					9DCBAEDD1ADC50E1002E9290 = {
 						CreatedOnToolsVersion = 6.3;
 					};
-					9DCBAEC41ADC5061002E9290 = {
+					9DCBAEF21ADC50E1002E9290 = {
 						CreatedOnToolsVersion = 6.3;
-						TestTargetID = 9DCBAEAF1ADC5061002E9290;
+						TestTargetID = 9DCBAEDD1ADC50E1002E9290;
 					};
 				};
 			};
-			buildConfigurationList = 9DCBAEAB1ADC5061002E9290 /* Build configuration list for PBXProject "Haggle" */;
+			buildConfigurationList = 9DCBAED91ADC50E1002E9290 /* Build configuration list for PBXProject "DJKapple" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -176,29 +176,29 @@
 				en,
 				Base,
 			);
-			mainGroup = 9DCBAEA71ADC5061002E9290;
-			productRefGroup = 9DCBAEB11ADC5061002E9290 /* Products */;
+			mainGroup = 9DCBAED51ADC50E1002E9290;
+			productRefGroup = 9DCBAEDF1ADC50E1002E9290 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9DCBAEAF1ADC5061002E9290 /* Haggle */,
-				9DCBAEC41ADC5061002E9290 /* HaggleTests */,
+				9DCBAEDD1ADC50E1002E9290 /* DJKapple */,
+				9DCBAEF21ADC50E1002E9290 /* DJKappleTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		9DCBAEAE1ADC5061002E9290 /* Resources */ = {
+		9DCBAEDC1ADC50E1002E9290 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DCBAEBB1ADC5061002E9290 /* Main.storyboard in Resources */,
-				9DCBAEC01ADC5061002E9290 /* LaunchScreen.xib in Resources */,
-				9DCBAEBD1ADC5061002E9290 /* Images.xcassets in Resources */,
+				9DCBAEE91ADC50E1002E9290 /* Main.storyboard in Resources */,
+				9DCBAEEE1ADC50E1002E9290 /* LaunchScreen.xib in Resources */,
+				9DCBAEEB1ADC50E1002E9290 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9DCBAEC31ADC5061002E9290 /* Resources */ = {
+		9DCBAEF11ADC50E1002E9290 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -208,46 +208,46 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		9DCBAEAC1ADC5061002E9290 /* Sources */ = {
+		9DCBAEDA1ADC50E1002E9290 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DCBAEB81ADC5061002E9290 /* ViewController.swift in Sources */,
-				9DCBAEB61ADC5061002E9290 /* AppDelegate.swift in Sources */,
+				9DCBAEE61ADC50E1002E9290 /* ViewController.swift in Sources */,
+				9DCBAEE41ADC50E1002E9290 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9DCBAEC11ADC5061002E9290 /* Sources */ = {
+		9DCBAEEF1ADC50E1002E9290 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DCBAECC1ADC5061002E9290 /* HaggleTests.swift in Sources */,
+				9DCBAEFA1ADC50E1002E9290 /* DJKappleTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		9DCBAEC71ADC5061002E9290 /* PBXTargetDependency */ = {
+		9DCBAEF51ADC50E1002E9290 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9DCBAEAF1ADC5061002E9290 /* Haggle */;
-			targetProxy = 9DCBAEC61ADC5061002E9290 /* PBXContainerItemProxy */;
+			target = 9DCBAEDD1ADC50E1002E9290 /* DJKapple */;
+			targetProxy = 9DCBAEF41ADC50E1002E9290 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		9DCBAEB91ADC5061002E9290 /* Main.storyboard */ = {
+		9DCBAEE71ADC50E1002E9290 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9DCBAEBA1ADC5061002E9290 /* Base */,
+				9DCBAEE81ADC50E1002E9290 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		9DCBAEBE1ADC5061002E9290 /* LaunchScreen.xib */ = {
+		9DCBAEEC1ADC50E1002E9290 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9DCBAEBF1ADC5061002E9290 /* Base */,
+				9DCBAEED1ADC50E1002E9290 /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -255,7 +255,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		9DCBAECD1ADC5061002E9290 /* Debug */ = {
+		9DCBAEFB1ADC50E1002E9290 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -299,7 +299,7 @@
 			};
 			name = Debug;
 		};
-		9DCBAECE1ADC5061002E9290 /* Release */ = {
+		9DCBAEFC1ADC50E1002E9290 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -336,27 +336,27 @@
 			};
 			name = Release;
 		};
-		9DCBAED01ADC5061002E9290 /* Debug */ = {
+		9DCBAEFE1ADC50E1002E9290 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = Haggle/Info.plist;
+				INFOPLIST_FILE = DJKapple/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		9DCBAED11ADC5061002E9290 /* Release */ = {
+		9DCBAEFF1ADC50E1002E9290 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = Haggle/Info.plist;
+				INFOPLIST_FILE = DJKapple/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
-		9DCBAED31ADC5061002E9290 /* Debug */ = {
+		9DCBAF011ADC50E1002E9290 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -368,14 +368,14 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = HaggleTests/Info.plist;
+				INFOPLIST_FILE = DJKappleTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Haggle.app/Haggle";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DJKapple.app/DJKapple";
 			};
 			name = Debug;
 		};
-		9DCBAED41ADC5061002E9290 /* Release */ = {
+		9DCBAF021ADC50E1002E9290 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -383,42 +383,42 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = HaggleTests/Info.plist;
+				INFOPLIST_FILE = DJKappleTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Haggle.app/Haggle";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DJKapple.app/DJKapple";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9DCBAEAB1ADC5061002E9290 /* Build configuration list for PBXProject "Haggle" */ = {
+		9DCBAED91ADC50E1002E9290 /* Build configuration list for PBXProject "DJKapple" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9DCBAECD1ADC5061002E9290 /* Debug */,
-				9DCBAECE1ADC5061002E9290 /* Release */,
+				9DCBAEFB1ADC50E1002E9290 /* Debug */,
+				9DCBAEFC1ADC50E1002E9290 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9DCBAECF1ADC5061002E9290 /* Build configuration list for PBXNativeTarget "Haggle" */ = {
+		9DCBAEFD1ADC50E1002E9290 /* Build configuration list for PBXNativeTarget "DJKapple" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9DCBAED01ADC5061002E9290 /* Debug */,
-				9DCBAED11ADC5061002E9290 /* Release */,
+				9DCBAEFE1ADC50E1002E9290 /* Debug */,
+				9DCBAEFF1ADC50E1002E9290 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		9DCBAED21ADC5061002E9290 /* Build configuration list for PBXNativeTarget "HaggleTests" */ = {
+		9DCBAF001ADC50E1002E9290 /* Build configuration list for PBXNativeTarget "DJKappleTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9DCBAED31ADC5061002E9290 /* Debug */,
-				9DCBAED41ADC5061002E9290 /* Release */,
+				9DCBAF011ADC50E1002E9290 /* Debug */,
+				9DCBAF021ADC50E1002E9290 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 9DCBAEA81ADC5061002E9290 /* Project object */;
+	rootObject = 9DCBAED61ADC50E1002E9290 /* Project object */;
 }

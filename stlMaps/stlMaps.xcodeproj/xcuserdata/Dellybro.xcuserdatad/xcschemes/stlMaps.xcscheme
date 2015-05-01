@@ -14,24 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9DCBAEAF1ADC5061002E9290"
-               BuildableName = "Haggle.app"
-               BlueprintName = "Haggle"
-               ReferencedContainer = "container:Haggle.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9DCBAEC41ADC5061002E9290"
-               BuildableName = "HaggleTests.xctest"
-               BlueprintName = "HaggleTests"
-               ReferencedContainer = "container:Haggle.xcodeproj">
+               BlueprintIdentifier = "9D12397B1AE9FE7400BA3410"
+               BuildableName = "stlMaps"
+               BlueprintName = "stlMaps"
+               ReferencedContainer = "container:stlMaps.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -42,24 +28,14 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9DCBAEC41ADC5061002E9290"
-               BuildableName = "HaggleTests.xctest"
-               BlueprintName = "HaggleTests"
-               ReferencedContainer = "container:Haggle.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9DCBAEAF1ADC5061002E9290"
-            BuildableName = "Haggle.app"
-            BlueprintName = "Haggle"
-            ReferencedContainer = "container:Haggle.xcodeproj">
+            BlueprintIdentifier = "9D12397B1AE9FE7400BA3410"
+            BuildableName = "stlMaps"
+            BlueprintName = "stlMaps"
+            ReferencedContainer = "container:stlMaps.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +52,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9DCBAEAF1ADC5061002E9290"
-            BuildableName = "Haggle.app"
-            BlueprintName = "Haggle"
-            ReferencedContainer = "container:Haggle.xcodeproj">
+            BlueprintIdentifier = "9D12397B1AE9FE7400BA3410"
+            BuildableName = "stlMaps"
+            BlueprintName = "stlMaps"
+            ReferencedContainer = "container:stlMaps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +71,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9DCBAEAF1ADC5061002E9290"
-            BuildableName = "Haggle.app"
-            BlueprintName = "Haggle"
-            ReferencedContainer = "container:Haggle.xcodeproj">
+            BlueprintIdentifier = "9D12397B1AE9FE7400BA3410"
+            BuildableName = "stlMaps"
+            BlueprintName = "stlMaps"
+            ReferencedContainer = "container:stlMaps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
